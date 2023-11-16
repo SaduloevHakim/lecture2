@@ -31,3 +31,10 @@ can be used before declaration.
 ### Hoisting - Variable (var)
 
 ![](photo_2023-11-16_21-07-31.jpg)
+
+>
+>
+
+### Hoisting - in Function declaration
+
+![](photo_2023-11-16_21-21-17.jpg)
