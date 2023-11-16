@@ -9,10 +9,5 @@
 ###### • Module scope: The scope for code running in module mode.
 >
 >
-### let
-![](photo_2023-11-16_15-16-08.jpg)
 >
->
->
-### const
 ![](photo_2023-11-16_15-19-46.jpg)
