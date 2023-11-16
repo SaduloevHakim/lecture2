@@ -27,6 +27,9 @@ Hoisting in JavaScript is a behavior in which a function or a variable
 can be used before declaration.
 
 >
+
+###### Hoisting works on variable <-- var --> only but it shows undefined. Hoisting doesn't work on variable <-- let, const --> 
+
 >
 ### Hoisting - Variable (var)
 
@@ -35,6 +38,8 @@ can be used before declaration.
 >
 >
 
-### Hoisting - in Function declaration
+### Hoisting - in Function 
+
+###### Hoisting works on function declaration only. Hoisting doesn't work on another functions 
 
 ![](photo_2023-11-16_21-21-17.jpg)
